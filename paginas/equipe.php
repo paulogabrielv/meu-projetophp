@@ -75,7 +75,7 @@
     ?>
   </main>
   <footer class="footer">
-    <p>Todos os direitos reservados | Desenvolvido por Paulo Vendramini</p>
+    <p>Todos os direitos reservados | Desenvolvido por Luiz Gazola</p>
     
     <a href="https://wa.me/5544998246730">
     <ion-icon name="logo-whatsapp" size="large"></ion-icon>

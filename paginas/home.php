@@ -43,8 +43,8 @@
     Jogos
   </div>
   <div class="card-body">
-    <h5 class="card-title">Descrição dos jogos</h5>
-    <p class="card-text">saiba mais dos jogos antes de jogar, suas histórias, controles, mecânicas, etc.</p>
+    <h5 class="card-title">Descrição dos jogos do grupo</h5>
+    <p class="card-text">Aqui voce encontra mais informaçoes sobre os jogos antes de jogar.</p>
     
     <a href="index.php?pg=jogos" class="btn btn-primary">Jogos</a>
 
