@@ -2,33 +2,33 @@
 
      <div class="carrosel" id="carrossel">
         <div class="container" id="img">
-            <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/bannerjogo.png" alt="Space Soldier">
+            <a href="jogos/jogo1" target="blank">
+                <img src="img/forestt.jfif" alt="Forest">
             </a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/fase1.jpeg" alt="LeMinotaur"></a>
+                <img src="img/hpo.jfif" alt="Bug From Hell 1.0 "></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/headerlogo1.png" alt="Space Soldier"></a>
+                <img src="img/walka.jfif" alt="Space Soldier"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/fase2.jpeg" alt="LeMinotaur"></a>
+                <img src="img/jogowarst.jpg" alt="WarStars"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/courtofkingcrimson.jpeg" alt="Álbum"></a>
+                <img src="img/jogocenar.png" alt="Álbum"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/deathconsciousness.jpeg" alt="Álbum"></a>
+                <img src="img/walka.jfif" alt="Álbum"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/larks.jpeg" alt="Álbum"></a>
+                <img src="img/hpo.jfif" alt="Álbum"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/lysflath.jpeg" alt="Álbum"></a>
+                <img src="img/heps.png" alt="Álbum"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/madvillany.jpeg" alt="Álbum"></a>
+                <img src="img/zerei.png" alt="Álbum"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/MrMorale.jpeg" alt="Álbum"></a>
+                <img src="img/jogocenar.jpg" alt="Álbum"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/ncudaod.jpeg" alt="Álbum"></a>
+                <img src="img/jogowar.jpg" alt="Álbum"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/okcomputer.jpeg" alt="Álbum"></a>
+                <img src="img/hell2.png" alt="Álbum"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/thebends.jpeg" alt="Álbum"></a>
+                <img src="img/print2.png" alt="Álbum"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
                 <img src="imagens/tomjobim.jpeg" alt="Álbum"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">

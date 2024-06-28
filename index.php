@@ -24,7 +24,7 @@
       <div class="container-fluid">
         
         <a class="navbar-brand" href="index.php?pg=home">
-        <img class="navbarimg" src="imagens/1logov2.png">
+        <img class="navbarimg" src="img/steamverde.png">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -33,7 +33,7 @@
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav">
-            <li class="nav-item">
+            <li class="nav-item1">
               <a class="nav-link active" aria-current="page" href="index.php?pg=home">Home</a>
             </li>
             <li class="nav-item">
